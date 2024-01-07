@@ -29,7 +29,7 @@ section{
     color:#333;
     padding:1rem;
     margin:2rem 0;
-    background:rgba(255, 51, 153,.05);
+    background:rgba(52, 93, 158, 0.05);
 }
 
 .heading span{
@@ -201,7 +201,7 @@ header .fa-bars{
 }
 
 .icons-container{
-    background:#eee;
+    background:#fffefe;
     display: flex;
     flex-wrap: wrap;
     gap:1.5rem;
@@ -270,9 +270,9 @@ header .fa-bars{
     height:25rem;
 }
 
-.products .box-container .box:hover .image img{
+/* .products .box-container .box:hover .image img{
     transform: scale(1.1);
-}
+} */
 
 .products .box-container .box .image .icons{
     position: absolute;
